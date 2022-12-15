@@ -1,0 +1,1 @@
+When none of these would be used anywhere else in the application, src/components , src/services , and src/helpers are not polluted with unnecessary files. You can add other directories such as hooks or context as well if required.

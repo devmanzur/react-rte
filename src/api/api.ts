@@ -20,4 +20,5 @@ const api = (axios: AxiosInstance) => {
       axios.put<T>(url, body, config),
   };
 };
+
 export default api(axiosInstance);

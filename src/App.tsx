@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import './App.css'
-import { AnimalList } from './components/common/AnimalList'
+import { AnimalList } from './components/AnimalList'
 
 function App() {
 
